@@ -4,7 +4,10 @@ A Flutter product discovery app built on [FakeStoreAPI](https://fakestoreapi.com
 
 ---
 
-## 📱 Screenshots
+## 📱 Screenshots      <img width="622" height="906" alt="image" src="https://github.com/user-attachments/assets/c83dd155-2618-4b27-9461-1e9dac30b2e7" />
+<img width="622" height="907" alt="image" src="https://github.com/user-attachments/assets/a873de72-eb19-49a2-b4ee-c76efcae4d74" />
+<img width="620" height="906" alt="image" src="https://github.com/user-attachments/assets/84f2166b-62c0-4b5d-93bf-f2097bb2d9ed" />
+
 
 > 
 
