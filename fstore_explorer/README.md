@@ -289,7 +289,7 @@ Three `StateNotifier` providers used:
 
 ## 📬 Contact
 
-Built by **[Your Name]**
+Built by **Nitin**
 Submitted to: viswas@beespoke.ai
 
 ---
