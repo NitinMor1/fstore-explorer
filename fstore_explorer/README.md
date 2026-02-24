@@ -1,4 +1,4 @@
-# 🛍️ Product Feed App — fstore_explorer
+<img width="622" height="911" alt="image" src="https://github.com/user-attachments/assets/e194a0b5-b4ba-4a4e-879c-de986aad692e" /># 🛍️ Product Feed App — fstore_explorer
 
 A Flutter product discovery app built on [FakeStoreAPI](https://fakestoreapi.com) — browse products, express style preferences with like/dislike, and explore products in a built-in WebView browser with full browsing history tracking. Powered by **Riverpod** for state management and **Hive** for local persistence.
 
@@ -6,7 +6,7 @@ A Flutter product discovery app built on [FakeStoreAPI](https://fakestoreapi.com
 
 ## 📱 Screenshots
 
-> *(Add your screenshots here)*
+> 
 
 ---
 
